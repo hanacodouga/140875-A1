@@ -2,11 +2,10 @@ body {
     font-family: Arial, sans-serif;
 }
 
-#logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+#title {
+    text-align: center;
+    font-size: 2.5em;
+    padding: 20px 0;
 }
 
 .video-container {
